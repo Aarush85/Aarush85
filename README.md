@@ -9,9 +9,11 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 - 🎓 Currently [Computer Science student]
 - 💼 Open to **internships**, **freelance projects**, and **collaborations**
 - ⚡ I enjoy working with:
-  - **Languages:** [e.g., JavaScript, Python, Java, C++, etc.]
-  - **Frameworks & Libraries:** [e.g., React, Node.js, ExpressJS, Laravel, etc.]
-  - **Tools:** [e.g., Git, Docker, VSCode, Postman, etc.]
+  - **Languages:**  JavaScript, Python, Java, C++
+  - **Databases:** MongoDB, PostgreSQL, MySQL
+  - **Frameworks & Libraries:** React, Node.js, ExpressJS, Laravel, etc.
+  - **Tools:**  Git, VSCode, Postman
+    
 - 🧠 Currently learning **[Typescript, NextJS]**
 
 ---
@@ -21,11 +23,18 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 ![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-![Frameworks](https://img.shields.io/badge/-Frameworks-black?style=flat-square)
+![Frameworks & Libraries](https://img.shields.io/badge/-Frameworks%20&%20Libraries-black?style=flat-square)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+![Databases](https://img.shields.io/badge/-Databases-black?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
