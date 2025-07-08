@@ -38,16 +38,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 📫 Email: [aarushkaura09062004@gmail.com]
