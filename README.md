@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Aarush]
+# 👋 Hello! I'm Aarush
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves building projects, learning new technologies, and solving real-world problems.
 
@@ -74,7 +74,7 @@ Here are a few projects I've been working on:
 - Created an event RSVP management system with guest tracking and schedule planning.
 - Admin dashboard to manage responses and event details efficiently.
 - Clean backend codebase with database optimizations for performance.
-- 
+  
 ---
 
 
