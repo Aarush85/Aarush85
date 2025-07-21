@@ -48,14 +48,11 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** who loves build
 ### 🚀 Featured Projects
 Here are a few projects I've been working on:
 
-### 🔗 [Expense Tracker — Personal Finance Manager](https://github.com/Aarush85/expense-tracker)
-> **Tech Stack:** React.js, Node.js, Express, MongoDB, JWT, REST APIs  
-- Developed a full-stack expense management platform for tracking personal finances.
-- Users can **add, update, delete, and filter expenses** by categories and dates.
-- Designed secure **authentication and authorization** with JWT-based token system.
-- Built RESTful backend APIs with proper error handling and validations.
-- Responsive UI with a dashboard showing financial insights and summaries.
-- Containerized the app using **Docker** for easy deployment.
+### 🔗 [FinanceFlow – Personal Finance & Analytics Dashboard](https://github.com/Aarush85/finance-flow)  
+> **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js, JWT  
+- Built a full-stack personal finance tracker enabling users to record incomes and expenses, categorize transactions, and visualize financial insights via an interactive dashboard.  
+- Developed REST APIs with secure JWT authentication and integrated filtering, sorting, and CRUD operations for transaction management.  
+- Integrated an **AI-powered chatbot** to assist users in making better financial decisions based on their income and spending patterns.
 
 ---
 
